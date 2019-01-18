@@ -1,0 +1,6 @@
+[submodule "views"]
+	path = views
+	url = git://github.com/ghondar/views.git
+[submodule "static"]
+	path = static
+	url = git://github.com/ghondar/static.git
